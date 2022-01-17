@@ -12,4 +12,6 @@
 
 #R Files - Used for case control matching and used for applying supervised machine learning algorithms 
 
+#The three trees/graphs are examples of some of the resulting diagrams
+
 #For more details please see the flow diagrams
